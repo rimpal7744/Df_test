@@ -1,7 +1,7 @@
 # Df_test
 
 
-# It contaisn both the working to generate a Df and also grouped it to best fit. When you run it you will get both the outputs in your terminal window.
+# It Contain both the working to generate a Df and also grouped it to best fit. When you run it you will get both the outputs in your terminal window.
 
 
 
